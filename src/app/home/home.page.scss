@@ -1,0 +1,119 @@
+ .firstsec {
+     background: #0091E6 0% 0% no-repeat padding-box;
+     opacity: 1;
+     border-bottom-right-radius: 90px;
+     -webkit-border-bottom-right-radius: 90px;
+ }
+ 
+ ion-content {
+     --background: #F7F7F7 0% 0% no-repeat padding-box;
+     opacity: 1;
+ }
+ 
+ .pro {
+     border-radius: 13px;
+     top: 91px;
+     width: 86%;
+     margin-left: auto;
+     margin-right: auto;
+     background: #FFFFFF 0% 0% no-repeat padding-box;
+     box-shadow: 0px 0px 20px #00000014;
+     opacity: 1;
+     button {
+         position: relative;
+         top: 0px;
+         left: 0px;
+         ion-icon {
+             border-radius: 24px;
+             width: 24px;
+             height: 24px;
+             background: #0091E6 0% 0% no-repeat padding-box;
+             opacity: 1;
+             position: absolute;
+             bottom: 0px;
+             right: 0px;
+         }
+     }
+ }
+ 
+ button {
+     top: 160px;
+     left: 131px;
+     width: 115px;
+     height: 115px;
+     background: #D8D8D8 0% 0% no-repeat padding-box;
+     border: 8px solid #F5F5F5;
+     border-radius: 62px;
+     opacity: 1;
+     ion-icon {
+         position: relative;
+     }
+ }
+ 
+ h2 {
+     color: #042C5C;
+     opacity: 1;
+     letter-spacing: 0.45px;
+     font-size: 18px;
+     p {
+         font-size: 14px;
+         letter-spacing: 0.12px;
+         color: #9EA0A5;
+         opacity: 1;
+     }
+ }
+ 
+ //  .se {
+ //      margin-top: 30%;
+ //      margin-left: 45px;
+ //  }
+ //  .smallcard {
+ //      position: relative;
+ //      left: -31px;
+ //      top: -26%;
+ //      width: 327px;
+ //      height: 56px;
+ //      background: #FFFFFF 0% 0% no-repeat padding-box;
+ //      box-shadow: 0px 0px 20px #0000000D;
+ //      border-radius: 10px;
+ //      opacity: 1;
+ //      ion-icon.md.hydrated {
+ //          display: flex;
+ //          justify-content: flex-start;
+ //      }
+ //      h2 {
+ //          display: flex;
+ //          justify-content: flex-start;
+ //          /* margin: 15px; */
+ //          margin-left: 13%;
+ //          margin-top: -30px;
+ //      }
+ //      .arrow {
+ //          width: 80%;
+ //          display: flex;
+ //          justify-content: flex-end;
+ //          margin: -8%;
+ //          margin-left: 20%;
+ //          margin-top: -14%;
+ //      }
+ //  }
+ .second {
+     .para {
+         margin: 108px 0px 0px 17px;
+     }
+     h2 {
+         margin: 0px 0px 10px 0px;
+     }
+     .img-setting {
+         padding: 13px;
+         background: #DFF2FD;
+         border-radius: 8px;
+     }
+     .smallcard {
+         width: 86%;
+         margin-right: auto;
+         margin-left: auto;
+         border-radius: 10px;
+         background: #fff;
+     }
+ }
